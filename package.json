@@ -4,12 +4,12 @@
   "description": "A node.js redlock implementation for distributed redis locks",
   "license": "MIT",
   "author": {
-    "name": "Mike Marcacci",
-    "email": "mike.marcacci@gmail.com"
+    "name": "Flightcontrol",
+    "url": "https://github.com/flightcontrolhq"
   },
-  "repository": "https://github.com/mike-marcacci/node-redlock.git",
-  "homepage": "https://github.com/mike-marcacci/node-redlock#readme",
-  "bugs": "https://github.com/mike-marcacci/node-redlock/issues",
+  "repository": "https://github.com/flightcontrolhq/node-redlock.git",
+  "homepage": "https://github.com/flightcontrolhq/node-redlock#readme",
+  "bugs": "https://github.com/flightcontrolhq/node-redlock/issues",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/index.d.ts",
